@@ -1,7 +1,7 @@
 module.exports = [
     {
-        "name":"Ahmed",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name":"Pikachu",
+        "photo":"http://www.pngmart.com/image/9539",
         "scores":[
             5,
             1,
