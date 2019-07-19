@@ -1,7 +1,7 @@
 module.exports = [
     {
         "name":"Pikachu",
-        "photo":"http://www.pngmart.com/image/9539",
+        "photo":"http://www.pngmart.com/files/2/Pikachu-Transparent-Background.png",
         "scores":[
             5,
             1,
@@ -17,14 +17,46 @@ module.exports = [
       },
       {
         "name":"Bulbasaur",
-        "photo":"http://www.pngmart.com/image/9539",
+        "photo":"http://pngimg.com/uploads/pokemon/pokemon_PNG1.png",
         "scores":[
-            5,
-            1,
-            4,
+            3,
             4,
             5,
+            2,
+            2,
+            4,
+            4,
+            2,
+            2,
+            5
+          ]
+      },
+      {
+        "name":"Charmander",
+        "photo":"http://orig02.deviantart.net/51f9/f/2015/053/5/8/charmander_004_by_kuitsuku-d8j22js.png",
+        "scores":[
+            3,
+            2,
+            3,
+            5,
+            4,
+            2,
+            5,
+            4,
+            3,
+            1
+          ]
+      },
+      {
+        "name":"Squirtle",
+        "photo":"https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c32a.png",
+        "scores":[
+            2,
             1,
+            5,
+            5,
+            4,
+            3,
             2,
             5,
             4,
@@ -32,3 +64,4 @@ module.exports = [
           ]
       }
 ]
+
